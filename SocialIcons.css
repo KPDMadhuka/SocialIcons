@@ -1,6 +1,3 @@
-.fa-github{
-	transition: all .2s ease-in-out;
-}
 .fa-github:hover{
 	color: #333;
 	transform: scale(1.3);
