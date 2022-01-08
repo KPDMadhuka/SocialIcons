@@ -66,13 +66,12 @@ i {
 <a style="color:grey;text-decoration: none;" href="http://twitter.com/KPDMadhuka"><i class="fab fa-twitter" style="font-size: 49px;"></i></a>
 
 <a style="color:grey;text-decoration: none;" href="https://www.youtube.com/KPDMadhuka/"><i class="fab fa-youtube"></i>
-
-</body>
-</html>
 # SocialIcons
 Hover effects on Font Awesome icons using CSS
 
 <a href ="https://codepen.io/kpdushanmaduka/pen/jadeoO">View this on CodePen</a>
 
 <a href ="https://www.lockedownseo.com/social-media-colors/">Official Colors of Social Media</a>
+</body>
+	</html>
 
