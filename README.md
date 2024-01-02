@@ -1,5 +1,5 @@
 # SocialIcons
-Hover effects on Font Awesome icons using CSS
+Hover effects on <a href ="https://fontawesome.com/">Font Awesome Icons</a> using CSS
 
 <a href ="https://codepen.io/kpdushanmaduka/pen/jadeoO">View this on CodePen</a>
 
